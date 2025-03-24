@@ -132,4 +132,3 @@ ip a show wlan0
   sudo reboot
   ```
 
-Let me know if you need further customization! 🚀

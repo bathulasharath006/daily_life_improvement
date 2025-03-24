@@ -1,7 +1,7 @@
 # Things to do while working in a Software Development Project
 
 
-
+https://austinhenley.com/blog/sestudyguide.html
 
 
 ## Development Phase
