@@ -1,0 +1,11 @@
+- `Shft + SpaceBar` -> For selecting/highlighting the whole row.  
+- `Ctrl + SpaceBar` -> For Selecting/highlighting the whole column.  
+- `Ctrl + a` or `Shft + SpaceBar` + `Ctrl + SpaceBar` -> For Selecting whole data.  
+ 
+- `Ctrl + home` -> To go to the cell `1st row & 1st column`.  
+- `home` -> To go to the `1st cell of the row`.  
+- `
+
+- `Ctrl + Shft + L` -> Turn On/Off the filters in the header row for all columns.  
+- `Alt + Down Arrow` -> For dropdown filter menu.  
+- `
