@@ -13,3 +13,11 @@
 
 
 
+
+=XLOOKUP(
+  C2,
+  IMPORTRANGE("1WJbLDpxljX16lD_LPKHCmZbv1TGp8ED_u5G1IviQYVo", "Consolidated Lab Marks!C2:C274"),
+  IMPORTRANGE("1WJbLDpxljX16lD_LPKHCmZbv1TGp8ED_u5G1IviQYVo [FILE_ID]", "Consolidated Lab Marks!J2:N274"),
+  "Not Found"
+)
+

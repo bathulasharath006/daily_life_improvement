@@ -68,7 +68,7 @@ All the files are uploaded in Github.
 `git config --global user.name "bathula-sharath"`  
 `git config --global user.email "bathulasharath006@gmail.com"`  
 `git config --list`  
-
+`git config --global --list` = To Check the UserName
 
 Quick setup — if you’ve done this kind of thing before  
 https://github.com/bathula-sharath/OB.git  
